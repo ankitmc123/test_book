@@ -1,9 +1,5 @@
 # Library Management System
 
-## Objective
-
-This project is a simple Library Management System that allows users to perform basic operations such as adding books, borrowing books, returning books, and viewing available books.
-
 ## Table of Contents
 
 - [Objective](#objective)
@@ -12,6 +8,10 @@ This project is a simple Library Management System that allows users to perform 
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Objective
+
+This project is a simple Library Management System that allows users to perform basic operations such as adding books, borrowing books, returning books, and viewing available books.
 
 ## Features
 
