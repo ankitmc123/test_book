@@ -1,13 +1,24 @@
-# Project Name
+# Library Management System
 
-A brief description of what the project does and its purpose.
+## Objective
+
+This project is a simple Library Management System that allows users to perform basic operations such as adding books, borrowing books, returning books, and viewing available books.
 
 ## Table of Contents
 
+- [Objective](#objective)
+- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Features
+
+- **Add Books**: Users can add new books to the library collection.
+- **Borrow Books**: Users can borrow available books from the library.
+- **Return Books**: Users can return borrowed books to the library.
+- **View Available Books**: Users can view a list of all available books in the library.
 
 ## Installation
 
@@ -19,5 +30,5 @@ A brief description of what the project does and its purpose.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/your-username/library-management-system.git
+cd library-management-system
