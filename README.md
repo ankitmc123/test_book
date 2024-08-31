@@ -24,8 +24,8 @@ This project is a simple Library Management System that allows users to perform 
 
 ### Prerequisites
 
-- [Java](https://www.oracle.com/java/technologies/javase-downloads.html) (version X or higher)
-- [Apache Maven](https://maven.apache.org/install.html)
+- [Java](https://www.oracle.com/java/technologies/javase-downloads.html) (version 20.0.1 or higher)
+- [Apache Maven](https://maven.apache.org/install.html)(version 3.9.9 or higher)
 
 ### Clone the Repository
 
